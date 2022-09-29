@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=1000&lines=E+u+_+s+o+u+_+P+a+b+l+o+_+R+o+d+r+i+g+o+.+.+.;I+_+a+m+_+P+a+b+l+o+_+R+o+d+r+i+g+o+.+.+.)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Computador iuriCode">
 
 ```js
 // Hello world in JavaScript
