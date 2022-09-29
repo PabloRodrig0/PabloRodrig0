@@ -47,9 +47,9 @@ fun main() {
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000E6CFF&height=120&section=header"/>
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloRodrig0&show_icons=true&count_private=true&hide_border=true&title_color=2AFF00FF&icon_color=0033FFFF&text_color=FF0000FF&bg_color=000000FF" alt="Pablo Rodrigo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodrig0&layout=compact&hide_border=true&title_color=2AFF00FF&text_color=0033FFFF&bg_color=000000FF"/>
+<div align = "center">  
+    <img width = "80%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodrig0&layout=compact&hide_border=true&title_color=2AFF00FF&text_color=0033FFFF&bg_color=000000FF"/>
+    <img width = "90%" src = "https://github-readme-stats.vercel.app/api?username=PabloRodrig0&show_icons=true&count_private=true&hide_border=true&title_color=2AFF00FF&icon_color=0033FFFF&text_color=FF0000FF&bg_color=000000FF" alt="Pablo Rodrigo github stats"/>     
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=PabloRodrig0&theme=high-contrast&hide_border=true&area=true)
 
