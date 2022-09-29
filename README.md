@@ -43,6 +43,8 @@ fun main() {
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=199500FF&height=120&section=footer"/>
 
+[![Portifolio](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=18F700&center=true&vCenter=true&width=1000&lines=P+o+r+t+i+f+ó+l+i+o+.+.+.)](https://www.instagram.com/pablo.rodrigo.araujo/)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000E6CFF&height=120&section=header"/>
 
 <div align="center">  
@@ -54,5 +56,10 @@ fun main() {
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PabloRodrig0}/count.svg" /></p><br></div>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablorodrigo0304@gmail.com.br?body=Ol%C3%A1%2C%20estou%20precisando%20de%20um%20desenvolvedor.%20Gostaria%20de%20saber%20mais%20sobre%20os%20seus%20servi%C3%A7os.)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rodrigo-araujo-4b4648206/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo.rodrigo.araujo/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585991508633&text=Ol%C3%A1%2C+Voc%C3%AA+poderia+me+falar+mais+sobre+os+seus+servi%C3%A7os%3F&type=phone_number&app_absent=0)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000FF&height=120&section=footer"/>
