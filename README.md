@@ -48,8 +48,6 @@ fun main() {
     <img width = "80%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRodrig0&layout=compact&hide_border=true&title_color=2AFF00FF&text_color=0033FFFF&bg_color=000000FF"/>
     <img width = "90%" src = "https://github-readme-stats.vercel.app/api?username=PabloRodrig0&show_icons=true&count_private=true&hide_border=true&title_color=2AFF00FF&icon_color=0033FFFF&text_color=FF0000FF&bg_color=000000FF" alt="Pablo Rodrigo github stats"/>     
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=PabloRodrig0&theme=high-contrast&hide_border=true&area=true)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{PabloRodrig0}/count.svg" /></p><br></div>
