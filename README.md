@@ -29,8 +29,10 @@ print("Hello World")
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000E6CFF&height=120&section=header"/>
 
+<div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rodrigo-araujo-4b4648206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo.rodrigo.araujo/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5585985100424&text=Ol%C3%A1%2C+Voc%C3%AA+poderia+me+falar+mais+sobre+os+seus+servi%C3%A7os%3F&type=phone_number&app_absent=0)
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000FF&height=120&section=footer"/>
